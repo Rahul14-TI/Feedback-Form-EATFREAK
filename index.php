@@ -32,6 +32,7 @@
 
         <div class="form-group">
             <label for="message">Message</label>
+            <input type="text" name="message" id="message" class="form-control" name="message" required>  
         </div>
          <button type="submit" class="btn btn-primary" style="margin-top: 15px;">Submit</button>  
       
