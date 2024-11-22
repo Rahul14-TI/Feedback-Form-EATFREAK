@@ -10,6 +10,7 @@
 <body style="padding:50px;">
 
  <h2>Leave a Feedback</h2>
+ <h2>Eatfreak</h2>
  <div class="container">
     <form method="post" action="connect.php">
         <div class="form-group">
